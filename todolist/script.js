@@ -1,3 +1,5 @@
+// Approach: https://docs.google.com/document/d/1UQs4B1IRmzqcX6VeqrhHEvo8Qbi-xHBNFv0aOtdgV20/edit?usp=sharing
+
 document.addEventListener("DOMContentLoaded", function () {
   const todoForm = document.querySelector(".todo-form");
   const todoInput = document.querySelector(".todo-input");
